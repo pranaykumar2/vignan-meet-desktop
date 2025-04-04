@@ -17,12 +17,12 @@
 
   <ItemGroup>
     <None Remove="Assets\Images\logo.png" />
-    <None Remove="Assets\Images\logo_small.png" />
+    <None Remove="Assets\Images\icon.ico" />
   </ItemGroup>
 
   <ItemGroup>
     <Resource Include="Assets\Images\logo.png" />
-    <Resource Include="Assets\Images\logo_small.png" />
+    <Resource Include="Assets\Images\icon.ico" />
   </ItemGroup>
 
 </Project>
